@@ -25,6 +25,9 @@ Tech Stack / Components Used
 - Water Pump  
 - Arduino IDE  
 - Wokwi Simulation Platform
+
+Demo Video Link
+https://drive.google.com/file/d/1_H4zZuQr4MBDWXw6w-TtlRl1OTraw38D/view?usp=drive_link
     
 Code
 /*
