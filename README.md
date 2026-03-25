@@ -1,12 +1,34 @@
+IoT-Based Smart Irrigation System: Optimizing Water Usage in Agriculture
+
+Team Members
+- Khushi Solanki (60005230055)  
+- Komal Kushwaha (60005230116)  
+- Nihal Singh (60005230221)  
+
+Problem Statement
+Agriculture consumes nearly 70% of global freshwater, yet inefficient irrigation leads to up to 50% water wastage. Under-irrigation reduces crop yield by 20–40%. Farmers spend significant time monitoring fields without accurate data, and unreliable weather predictions worsen the situation. These factors result in economic losses and unsustainable farming practices.
+
+Proposed Solution
+This project develops an IoT-based smart irrigation system that:
+- Continuously monitors soil moisture levels  
+- Uses temperature and humidity data for better decisions  
+- Automatically controls water supply  
+- Stops irrigation once optimal moisture is reached  
+
+This reduces water wastage, saves energy, and minimizes manual effort.
+
+Tech Stack / Components Used
+- ESP32 / Arduino UNO  
+- Soil Moisture Sensor  
+- DHT11/DHT22 Sensor  
+- Relay Module  
+- Water Pump  
+- Arduino IDE  
+- Wokwi Simulation Platform
+    
+Code
 /*
-  Smart Irrigation System using ESP32
-
-  Components:
-  - Soil Moisture Sensor (Analog)
-  - Relay Module (Pump Control)
-  - DHT11 Sensor (Temperature & Humidity)
-
-  Function:
+   Function:
   - Reads soil moisture
   - Automatically turns pump ON/OFF
   - Displays data on Serial Monitor
